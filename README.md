@@ -2,9 +2,9 @@
 
 Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts. It is meant to used as a starting point for a jekyll blog/website.
 
-If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaier).
+If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@kkwoker](https://twitter.com/brianmaier).
 
-####[View Demo](http://brianmaierjr.com/long-haul)
+####[View Demo](http://kkwoker.com/long-haul)
 
 ## Features
 
@@ -24,9 +24,9 @@ If you really enjoy Long Haul and want to give me credit somewhere on the send o
 ## Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+2. Fork the [Long Haul repo](http://github.com/kkwoker/long-haul)
 3. Clone it
-4. Install susy `gem install susy` 
+4. Install susy `gem install susy`
 5. Install normalize `gem install normalize-scss`
 6. Run Jekyll `jekyll serve -w`
 7. Run `compass watch`
